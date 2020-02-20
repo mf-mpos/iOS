@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>292D5CF6-77B0-4333-B644-6DC8B1E85FE7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MPosDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>a3dc7ab1-fe2e-47ec-afc0-655336bc0f1c</key>
+		<string>svn://192.168.1.222/mpos</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/SDK/reader/MPosControllerDemo/MPosDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>a3dc7ab1-fe2e-47ec-afc0-655336bc0f1c</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>a3dc7ab1-fe2e-47ec-afc0-655336bc0f1c</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>a3dc7ab1-fe2e-47ec-afc0-655336bc0f1c</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mpos</string>
+		</dict>
+	</array>
+</dict>
+</plist>

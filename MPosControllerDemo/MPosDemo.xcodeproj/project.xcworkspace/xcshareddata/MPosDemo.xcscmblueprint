@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "a3dc7ab1-fe2e-47ec-afc0-655336bc0f1c",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "a3dc7ab1-fe2e-47ec-afc0-655336bc0f1c" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "a3dc7ab1-fe2e-47ec-afc0-655336bc0f1c" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "292D5CF6-77B0-4333-B644-6DC8B1E85FE7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "a3dc7ab1-fe2e-47ec-afc0-655336bc0f1c" : "mpos\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MPosDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/SDK\/reader\/MPosControllerDemo\/MPosDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.1.222\/mpos",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a3dc7ab1-fe2e-47ec-afc0-655336bc0f1c"
+    }
+  ]
+}
