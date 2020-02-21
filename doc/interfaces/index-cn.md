@@ -1,6 +1,6 @@
 # 读卡交易一般步骤
 
-![](http://appstore.morefun-et.com/Uploads/Images/1582295109274.jpg)
+<p align="center"><img src="http://appstore.morefun-et.com/Uploads/Images/1582295109274.jpg" align="center" width="350"></p>
 
 ### 参考相关函数
 [接口列表](../README-cn.md)
