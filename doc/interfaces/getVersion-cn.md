@@ -17,5 +17,6 @@
 | :-------- | :--------| :------ |
 | getVersion| NSString | 当前SDK版本号 |
 
-
+### 参考相关函数
+[接口列表](../README-cn.md) | [setTimeout](setTimeout-cn.md) | [readPosInfoEx](readPosInfoEx-cn.md) | [updatePos](updatePos-cn.md)
 

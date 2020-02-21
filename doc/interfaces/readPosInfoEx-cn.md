@@ -43,5 +43,5 @@
 | dev_model | NSString | 终端类型 |
 
 ### 参考相关函数
-[接口列表](../README-cn.md) | [setDatetime](setDatetime-cn.md) | [getDatetime](getDatetime-cn.md) | [getDeviceState](getDeviceState-cn.md)
+[接口列表](../README-cn.md) | [setDatetime](setDatetime-cn.md) | [setFactoryCode](setFactoryCode-cn.md) | [getDatetime](getDatetime-cn.md) | [getDeviceState](getDeviceState-cn.md)
 

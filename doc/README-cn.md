@@ -1,5 +1,3 @@
--   **调用规则**
-    -   [操作基本流程](interfaces/index-cn.md)
 -   **接口列表**
     -   [openBtDevice](interfaces/openBtDevice-cn.md)
     -   [scanBtDevice](interfaces/scanBtDevice-cn.md)
@@ -32,3 +30,6 @@
     -   [setFactoryCode](interfaces/setFactoryCode-cn.md)
     -   [getDatetime](interfaces/getDatetime-cn.md)
     -   [updatePos](interfaces/updatePos-cn.md)
+    
+-   **调用规则**
+    -   [操作基本流程](interfaces/index-cn.md)

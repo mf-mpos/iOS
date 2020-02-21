@@ -1,6 +1,17 @@
 # 读卡交易一般步骤
 
-<p align="center"><img src="http://appstore.morefun-et.com/Uploads/Images/1582295109274.jpg" align="center" width="350"></p>
+| **读卡交易流程** |
+| :------ |
+| 扫描蓝牙设备([scanBtDevice](scanBtDevice-cn.md)) |
+| 连接蓝牙设备([connectBtDevice](connectBtDevice-cn.md)) |
+| 设置厂商ID([setFactoryCode](setFactoryCode-cn.md)) |
+| 下载主密钥([loadMasterKey](loadMasterKey-cn.md)) |
+| 下载工作密钥([loadWorkKey](loadWorkKey-cn.md)) |
+| 调用读卡接口([mPosTradeEx](mPosTradeEx-cn.md)) |
+| 数据包MAC计算([calcMac2](calcMac2-cn.md)) |
+| 组包通讯 |
+| 等待通讯结果 |
+| **交易结束** |
 
 ### 参考相关函数
 [接口列表](../README-cn.md)
