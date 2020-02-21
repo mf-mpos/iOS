@@ -26,18 +26,18 @@
 ###### 参数
 | 参数 | 参数类型 | 参数说明 |
 | :-------- | :--------| :------ |
-| cardType| MFEU_READCARD_TYPE | 读卡类型 |
+| cardType| [MFEU_READCARD_TYPE](enum-cn.md#MFEU_READCARD_TYPE) | 读卡类型 |
 | cardTimeout| unsigned char | 读卡超时时间（单位：秒） |
 | tradeDes| NSString | 屏幕显示内容 |
 | tradeAmt| int | 交易金额 |
-| tradeType| MFEU_TRADE_TYPE | 交易类型 |
-| pboc| MFEU_PBOC_FLOW | PBOC 流程指示 |
-| ecash| MFEU_ECASH_TRADE | 是否支持电子现金 |
-| online| MFEU_IC_ONLINE | 强制联机标识 |
-| pinreq| MFEU_PINREQ | PIN输入指示 |
+| tradeType| [MFEU_TRADE_TYPE](enum-cn.md#MFEU_TRADE_TYPE) | 交易类型 |
+| pboc| [MFEU_PBOC_FLOW](enum-cn.md#MFEU_PBOC_FLOW) | PBOC 流程指示 |
+| ecash| [MFEU_ECASH_TRADE](enum-cn.md#MFEU_ECASH_TRADE) | 是否支持电子现金 |
+| online| [MFEU_IC_ONLINE](enum-cn.md#MFEU_IC_ONLINE) | 强制联机标识 |
+| pinreq| [MFEU_PINREQ](enum-cn.md#MFEU_PINREQ) | PIN输入指示 |
 | nPwdMaxLength| unsigned char | 密码的最大长度 <=0x0C |
 | nPwdTimeout| unsigned char | 输入密码超时时间(1-255，单位：秒） |
-| failback| MFEU_FAILBACK | 是否允许降级 |
+| failback| [MFEU_FAILBACK](enum-cn.md#MFEU_FAILBACK) | 是否允许降级 |
 | flowNo| NSString | 流水号 |
 | orderNo| NSString | 订单号 |
 | tagList| NSString | 自定义tag列表（默认nil） |
