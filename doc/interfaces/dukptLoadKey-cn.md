@@ -40,3 +40,6 @@
 | resp| [MFEU_MSR_RESP](enum-cn.md#MFEU_MSR_RESP) | 终端上的结果返回 |
 | kvc| NSString | PEK对应的KVC值 |
 
+### 参考相关函数
+[接口列表](../README-cn.md) | [loadMasterKey](loadMasterKey-cn.md) | [loadWorkKey](loadWorkKey-cn.md) | [setKeyIndex](setKeyIndex-cn.md) | [dukptGetKey](dukptGetKey-cn.md) | [dukptGenKey](dukptGenKey-cn.md) | [dukptDes](dukptDes-cn.md)
+

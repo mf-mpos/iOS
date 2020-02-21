@@ -34,3 +34,6 @@
 | :-------- | :--------| :------ |
 | resp| [MFEU_MSR_REAUTH_RESP](enum-cn.md#MFEU_MSR_REAUTH_RESP) | 终端上的结果返回 |
 
+### 参考相关函数
+[接口列表](../README-cn.md) | [resetPos](resetPos-cn.md) | [mPosTradeEx](mPosTradeEx-cn.md) | [inputPin](inputPin-cn.md) | [getRandomNum](getRandomNum-cn.md) | [calcMac](calcMac-cn.md) | [calcMac2](calcMac-cn.md)
+

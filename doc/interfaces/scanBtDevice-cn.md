@@ -26,3 +26,6 @@
 | 参数 | 参数类型 | 参数说明 |
 | :-------- | :--------| :------ |
 | btDevice| NSString | 当前搜索到一个蓝牙设备名称 |
+
+### 参考相关函数
+[接口列表](../README-cn.md) | [openBtDevice](openBtDevice-cn.md) | [stopScan](stopScan-cn.md) | [connectBtDevice](connectBtDevice-cn.md) | [disconnectBtDevice](disconnectBtDevice-cn.md)

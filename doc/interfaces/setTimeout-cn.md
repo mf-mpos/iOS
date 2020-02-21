@@ -26,3 +26,6 @@
 
 #### 返回参数
 > 空
+
+### 参考相关函数
+[接口列表](../README-cn.md) | [getVersion](getVersion-cn.md) | [readPosInfoEx](readPosInfoEx-cn.md) | [updatePos](updatePos-cn.md)

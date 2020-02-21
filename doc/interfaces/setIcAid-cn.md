@@ -34,3 +34,5 @@
 | index| NSInteger | 当前AID索引 |
 | total| NSInteger | 下载AID总数 |
 
+### 参考相关函数
+[接口列表](../README-cn.md) | [loadMasterKey](loadMasterKey-cn.md) | [loadWorkKey](loadWorkKey-cn.md) | [setIcKey](setIcKey-cn.md) | [setKeyIndex](setKeyIndex-cn.md)

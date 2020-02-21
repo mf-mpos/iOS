@@ -30,3 +30,6 @@
 | :-------- | :--------| :------ |
 | randNum| NSString | 终端返回的随机数 |
 
+### 参考相关函数
+[接口列表](../README-cn.md) | [readPosInfoEx](readPosInfoEx-cn.md) | [setDatetime](setDatetime-cn.md) | [getDatetime](getDatetime-cn.md)
+

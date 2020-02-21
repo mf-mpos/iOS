@@ -40,3 +40,6 @@
 | pwdLength| NSInteger | 输入密码长度 |
 | pwdText| NSString | 返回pinblock |
 
+### 参考相关函数
+[接口列表](../README-cn.md) | [resetPos](resetPos-cn.md) | [mPosTradeEx](mPosTradeEx-cn.md) | [inputPin](inputPin-cn.md) | [getRandomNum](getRandomNum-cn.md) | [icDealOnline](icDealOnline-cn.md) | [calcMac](calcMac-cn.md) | [calcMac2](calcMac-cn.md)
+

@@ -38,3 +38,6 @@
 | :-------- | :--------| :------ |
 | resp| [MFEU_MSR_RESP](enum-cn.md#MFEU_MSR_RESP) | 终端上的结果返回 |
 
+### 参考相关函数
+[接口列表](../README-cn.md) | [setTimeout](setTimeout-cn.md) | [readPosInfoEx](readPosInfoEx-cn.md) | [getVersion](getVersion-cn.md)
+

@@ -38,3 +38,6 @@
 | :-------- | :--------| :------ |
 | result| NSString | 运算后的结果 |
 
+### 参考相关函数
+[接口列表](../README-cn.md) | [loadMasterKey](loadMasterKey-cn.md) | [loadWorkKey](loadWorkKey-cn.md) | [setKeyIndex](setKeyIndex-cn.md) | [dukptLoadKey](dukptLoadKey-cn.md) | [dukptGetKey](dukptGetKey-cn.md) | [dukptGenKey](dukptGenKey-cn.md)
+

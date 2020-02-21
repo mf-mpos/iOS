@@ -42,4 +42,6 @@
 | custom_info | NSString | 自定义信息 |
 | dev_model | NSString | 终端类型 |
 
+### 参考相关函数
+[接口列表](../README-cn.md) | [setDatetime](setDatetime-cn.md) | [getDatetime](getDatetime-cn.md) | [getDeviceState](getDeviceState-cn.md)
 

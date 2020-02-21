@@ -1,5 +1,5 @@
 -   **调用规则**
-    -   [操作基本流程](interfaces/flow-cn.md)
+    -   [操作基本流程](interfaces/index-cn.md)
 -   **接口列表**
     -   [openBtDevice](interfaces/openBtDevice-cn.md)
     -   [scanBtDevice](interfaces/scanBtDevice-cn.md)
@@ -11,7 +11,9 @@
     -   [setTimeout](interfaces/setTimeout-cn.md)
     -   [mPosTradeEx](interfaces/mPosTradeEx-cn.md)
     -   [resetPos](interfaces/resetPos-cn.md)
-    -   [InputPin](interfaces/InputPin-cn.md)
+    -   [inputPin](interfaces/inputPin-cn.md)
+    -   [calcMac](interfaces/calcMac-cn.md)
+    -   [calcMac2](interfaces/calcMac2-cn.md)
     -   [loadMasterKey](interfaces/loadMasterKey-cn.md)
     -   [loadWorkKey](interfaces/loadWorkKey-cn.md)
     -   [dukptLoadKey](interfaces/dukptLoadKey-cn.md)
@@ -22,6 +24,7 @@
     -   [setIcKey](interfaces/setIcKey-cn.md)
     -   [setIcAid](interfaces/setIcAid-cn.md)
     -   [icDealOnline](interfaces/icDealOnline-cn.md)
+    -   [endEmv](interfaces/endEmv-cn.md)
     -   [readPosInfoEx](interfaces/readPosInfoEx-cn.md)
     -   [getRandomNum](interfaces/getRandomNum-cn.md)
     -   [beep](interfaces/beep-cn.md)

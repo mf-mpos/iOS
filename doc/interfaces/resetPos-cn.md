@@ -28,3 +28,6 @@
 | 参数 | 参数类型 | 参数说明 |
 | :-------- | :--------| :------ |
 | resp| [MFEU_MSR_RESP](enum-cn.md#MFEU_MSR_RESP) | 终端上的结果返回 |
+
+### 参考相关函数
+[接口列表](../README-cn.md) | [readPosInfoEx](readPosInfoEx-cn.md) | [mPosTradeEx](mPosTradeEx-cn.md) | [inputPin](inputPin-cn.md) | [getDeviceState](getDeviceState-cn.md)

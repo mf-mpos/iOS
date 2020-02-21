@@ -30,3 +30,5 @@
 | :-------- | :--------| :------ |
 | datetime| NSString | 当前时间(YYYYMMDDhhmmss) |
 
+### 参考相关函数
+[接口列表](../README-cn.md) | [readPosInfoEx](readPosInfoEx-cn.md) | [setDatetime](setDatetime-cn.md) | [setFactoryCode](setFactoryCode-cn.md) | [getDeviceState](getDeviceState-cn.md)

@@ -35,3 +35,5 @@
 | :-------- | :--------| :------ |
 | deviceArray| NSMutableArray | 搜索到所有的蓝牙设备列表（包括名称+UUID） |
 
+### 参考相关函数
+[接口列表](../README-cn.md) | [openBtDevice](openBtDevice-cn.md) | [scanBtDevice](scanBtDevice-cn.md) | [connectBtDevice](connectBtDevice-cn.md) | [disconnectBtDevice](disconnectBtDevice-cn.md)

@@ -107,3 +107,7 @@ static NSString* MPOS_KEY_MACRANDOM = @"MACRandom";
 static NSString* MPOS_KEY_IDENCRYPT = @"idEncrypt";
 static NSString* MPOS_KEY_CARDHOLDER = @"cardHolder";
 ```
+
+### 参考相关函数
+[接口列表](../README-cn.md) | [resetPos](resetPos-cn.md) | [inputPin](inputPin-cn.md) | [getRandomNum](getRandomNum-cn.md) | [icDealOnline](icDealOnline-cn.md) | [calcMac](calcMac-cn.md) | [calcMac2](calcMac-cn.md)
+

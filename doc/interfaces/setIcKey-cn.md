@@ -34,3 +34,5 @@
 | index| NSInteger | 当前IC公钥索引 |
 | total| NSInteger | 下载IC公钥总数 |
 
+### 参考相关函数
+[接口列表](../README-cn.md) | [loadMasterKey](loadMasterKey-cn.md) | [loadWorkKey](loadWorkKey-cn.md) | [setIcAid](setIcAid-cn.md) | [setKeyIndex](setKeyIndex-cn.md)

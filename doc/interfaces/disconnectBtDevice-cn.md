@@ -24,3 +24,6 @@
 
 #### 返回参数
 > 空
+
+### 参考相关函数
+[接口列表](../README-cn.md) | [openBtDevice](openBtDevice-cn.md) | [scanBtDevice](scanBtDevice-cn.md) | [stopScan](stopScan-cn.md) | [connectBtDevice](connectBtDevice-cn.md)

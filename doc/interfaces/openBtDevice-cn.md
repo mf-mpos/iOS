@@ -15,4 +15,6 @@
 #### 返回值
 > 空
 
+### 参考相关函数
+[接口列表](../README-cn.md) | [scanBtDevice](scanBtDevice-cn.md) | [stopScan](stopScan-cn.md) | [connectBtDevice](connectBtDevice-cn.md) | [disconnectBtDevice](disconnectBtDevice-cn.md)
 

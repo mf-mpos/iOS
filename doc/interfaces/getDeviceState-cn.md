@@ -17,5 +17,7 @@
 | :--------| :------ |
 | NSInteger | 当前设备连接状态(0: 设备未连接, 1: 设备已连接) |
 
+### 参考相关函数
+[接口列表](../README-cn.md) | [readPosInfoEx](readPosInfoEx-cn.md) | [setDatetime](setDatetime-cn.md) | [getDatetime](getDatetime-cn.md)
 
 

@@ -32,3 +32,5 @@
 #### 返回参数
 > 空
 
+### 参考相关函数
+[接口列表](../README-cn.md) | [readPosInfoEx](readPosInfoEx-cn.md) | [setDatetime](setDatetime-cn.md) | [getDatetime](getDatetime-cn.md) | [getDeviceState](getDeviceState-cn.md)
