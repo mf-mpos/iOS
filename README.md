@@ -47,14 +47,14 @@ You need to add .a and .h files to the project file in the SDK directory.
     self.posCtrl = [MPosControllersharedInstance];
     self.posCtrl.delegate = self;
 
-		// Turn on BT device
-		[self.posCtrl openBtDevice]; 
+	// Turn on BT device
+	[self.posCtrl openBtDevice]; 
 }
 
 // Connected callback
 - (void)didConnected:(NSString *)devName
 {	
-		// Be sure to set the manufacturer ID number after the connection (default is 0, specific ID allocation, please contact us)
+	// Be sure to set the manufacturer ID number after the connection (default is 0, specific ID allocation, please contact us)
     [self.posCtrl setFactoryCode: 0];
   	// *** Follow the swipe card operation, please execute it in the didSetDatetimeResp callback function *** //
     // The end... //
@@ -72,6 +72,7 @@ You need to add .a and .h files to the project file in the SDK directory.
     NSLog(@"KSN: %@\n Battery: %d\nAppVersion: %@\nDataVersion: %@\nCustom Info:\n%@\nDevice Model: %@", ksn, battery, app_ver, data_ver, custom_info, model);
 
   	// Calling subsequent interfaces...
+  	// ....
 }
 ```
 
