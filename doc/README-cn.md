@@ -1,20 +1,22 @@
 # 接口列表
 
-- ### 蓝牙相关
+- ### 蓝牙操作
 
 | [openBtDevice](interfaces/openBtDevice-cn.md) | [scanBtDevice](interfaces/scanBtDevice-cn.md) | [stopScan](interfaces/stopScan-cn.md) |
 | :--------: | :--------: | :--------: |
 | [connectBtDevice](interfaces/connectBtDevice-cn.md) | [disconnectBtDevice](interfaces/disconnectBtDevice-cn.md) | |
 
-- ### **密钥相关**
+- ### **密钥操作**
 | [loadMasterKey](interfaces/loadMasterKey-cn.md) | [loadWorkKey](interfaces/loadWorkKey-cn.md) | |
 | :-----: | :-----: | :-----: |
 | [setKeyIndex](interfaces/setKeyIndex-cn.md) | [setIcKey](interfaces/setIcKey-cn.md) | [setIcAid](interfaces/setIcAid-cn.md) |
-| **DUKPK相关** | ||
+
+- ### **DUKPT**
 | [dukptLoadKey](interfaces/dukptLoadKey-cn.md) | [dukptGetKey](interfaces/dukptGetKey-cn.md) | [dukptGenKey](interfaces/dukptGenKey-cn.md) |
+| :-----: | :-----: | :-----: |
 | [dukptDes](interfaces/dukptDes-cn.md) | ||
 
-- ### **交易相关**
+- ### **交易操作**
 | [mPosTradeEx](interfaces/mPosTradeEx-cn.md) | [resetPos](interfaces/resetPos-cn.md) | [inputPin](interfaces/inputPin-cn.md) |
 | :-----: | :-----: |:-----: |
 | [calcMac](interfaces/calcMac-cn.md) | [calcMac2](interfaces/calcMac2-cn.md) | [icDealOnline](interfaces/icDealOnline-cn.md) |
