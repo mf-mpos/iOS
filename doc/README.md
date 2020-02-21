@@ -3,7 +3,7 @@
 -   **Functions**
     -   [openBtDevice](interface/openBtDevice-cn.md)
     -   [scanBtDevice](interface/scanBtDevice-cn.md)
-    -   [stopBtDevice](interface/stopBtDevice-cn.md)
+    -   [stopScan](interface/stopScan-cn.md)
     -   [connectBtDevice](interface/connectBtDevice-cn.md)
     -   [disconnectBtDevice](interface/disconnectBtDevice-cn.md)
     -   [getVersion](interface/getVersion-cn.md)
