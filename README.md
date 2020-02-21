@@ -42,10 +42,11 @@ You need to add .a and .h files to the project file in the SDK directory.
 
 - (void)viewDidLoad
 {
-    [superviewDidLoad];
-    // Initialization MPosController object
-    self.posCtrl = [MPosControllersharedInstance];
-    self.posCtrl.delegate = self;
+	[superviewDidLoad];
+	
+	// Initialization MPosController object
+	self.posCtrl = [MPosControllersharedInstance];
+	self.posCtrl.delegate = self;
 
 	// Turn on BT device
 	[self.posCtrl openBtDevice]; 
@@ -55,24 +56,24 @@ You need to add .a and .h files to the project file in the SDK directory.
 - (void)didConnected:(NSString *)devName
 {	
 	// Be sure to set the manufacturer ID number after the connection (default is 0, specific ID allocation, please contact us)
-    [self.posCtrl setFactoryCode: 0];
-  	// *** Follow the swipe card operation, please execute it in the didSetDatetimeResp callback function *** //
-    // The end... //
+	[self.posCtrl setFactoryCode: 0];
+	// *** Follow the swipe card operation, please execute it in the didSetDatetimeResp callback function *** //
+	// The end... //
 }
 
 // Get Pos Information
 -(void) getPosInfo
 {
-    [self.posCtrl readPosInfo];
+	[self.posCtrl readPosInfo];
 }
 
 // Get Pos information callback
 -(void) didReadPosInfoResp:(NSString *)ksn status: (MFEU_MSR_DEVSTAT)status battery: (MFEU_MSR_BATTERY)battery app_ver: (NSString *)app_ver data_ver: (NSString *)data_ver custom_info: (NSString *)custom_info dev_model: (NSString *) model
 {
-    NSLog(@"KSN: %@\n Battery: %d\nAppVersion: %@\nDataVersion: %@\nCustom Info:\n%@\nDevice Model: %@", ksn, battery, app_ver, data_ver, custom_info, model);
+	NSLog(@"KSN: %@\n Battery: %d\nAppVersion: %@\nDataVersion: %@\nCustom Info:\n%@\nDevice Model: %@", ksn, battery, app_ver, data_ver, custom_info, model);
 
-  	// Calling subsequent interfaces...
-  	// ....
+	// Calling subsequent interfaces...
+	// ....
 }
 ```
 
