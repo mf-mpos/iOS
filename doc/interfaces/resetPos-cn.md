@@ -21,10 +21,10 @@
 - ###### didResetPosResp:
 回调时机：搜索到一个蓝牙设备时
 ```objective-c
--(void) didResetPosResp:([MFEU_MSR_RESP](enum-cn.md#MFEU_MSR_RESP))resp;
+-(void) didResetPosResp:(MFEU_MSR_RESP)resp;
 ```
 
 #### 返回参数
 | 参数 | 参数类型 | 参数说明 |
 | :-------- | :--------| :------ |
-| resp| MFEU_MSR_RESP | 终端上的结果返回 |
+| resp| [MFEU_MSR_RESP](enum-cn.md#MFEU_MSR_RESP) | 终端上的结果返回 |
