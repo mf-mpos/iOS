@@ -3,7 +3,7 @@
 - ### 蓝牙相关
 
 | [openBtDevice](interfaces/openBtDevice-cn.md) | [scanBtDevice](interfaces/scanBtDevice-cn.md) | [stopScan](interfaces/stopScan-cn.md) |
-| :-----: | :-----: | :-----: |
+| :--------: | :--------: | :--------: |
 | [connectBtDevice](interfaces/connectBtDevice-cn.md) | [disconnectBtDevice](interfaces/disconnectBtDevice-cn.md) | |
 
 - ### **密钥相关**
