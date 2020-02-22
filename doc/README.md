@@ -30,3 +30,7 @@
 | [setDatetime](en/setDatetime.md) | [setFactoryCode](en/setFactoryCode.md) | [getDatetime](en/getDatetime.md) |
 | [readPosInfoEx](en/readPosInfoEx.md) | [beep](en/beep.md) | [updatePos](en/updatePos.md) |
 
+
+- ### **General steps of card transaction**
+    -   [Card read & transaction process](en/index.md)
+
