@@ -2,31 +2,31 @@
 
 - ### 蓝牙操作
 
-| [openBtDevice](interfaces/openBtDevice-cn.md) | [scanBtDevice](interfaces/scanBtDevice-cn.md) | [stopScan](interfaces/stopScan-cn.md) |
+| [openBtDevice](cn/openBtDevice.md) | [scanBtDevice](cn/scanBtDevice.md) | [stopScan](cn/stopScan.md) |
 | :--------: | :--------: | :--------: |
-| [connectBtDevice](interfaces/connectBtDevice-cn.md) | [disconnectBtDevice](interfaces/disconnectBtDevice-cn.md) | |
+| [connectBtDevice](cn/connectBtDevice.md) | [disconnectBtDevice](cn/disconnectBtDevice.md) | |
 
 - ### **密钥操作**
-| [loadMasterKey](interfaces/loadMasterKey-cn.md) | [loadWorkKey](interfaces/loadWorkKey-cn.md) | |
+| [loadMasterKey](cn/loadMasterKey.md) | [loadWorkKey](cn/loadWorkKey.md) | |
 | :-----: | :-----: | :-----: |
-| [setKeyIndex](interfaces/setKeyIndex-cn.md) | [setIcKey](interfaces/setIcKey-cn.md) | [setIcAid](interfaces/setIcAid-cn.md) |
+| [setKeyIndex](cn/setKeyIndex.md) | [setIcKey](cn/setIcKey.md) | [setIcAid](cn/setIcAid.md) |
 
 - ### **DUKPT**
-| [dukptLoadKey](interfaces/dukptLoadKey-cn.md) | [dukptGetKey](interfaces/dukptGetKey-cn.md) | [dukptGenKey](interfaces/dukptGenKey-cn.md) |
+| [dukptLoadKey](cn/dukptLoadKey.md) | [dukptGetKey](cn/dukptGetKey.md) | [dukptGenKey](cn/dukptGenKey.md) |
 | :-----: | :-----: | :-----: |
-| [dukptDes](interfaces/dukptDes-cn.md) | ||
+| [dukptDes](cn/dukptDes.md) | ||
 
 - ### **交易操作**
-| [mPosTradeEx](interfaces/mPosTradeEx-cn.md) | [resetPos](interfaces/resetPos-cn.md) | [inputPin](interfaces/inputPin-cn.md) |
+| [mPosTradeEx](cn/mPosTradeEx.md) | [resetPos](cn/resetPos.md) | [inputPin](cn/inputPin.md) |
 | :-----: | :-----: |:-----: |
-| [calcMac](interfaces/calcMac-cn.md) | [calcMac2](interfaces/calcMac2-cn.md) | [icDealOnline](interfaces/icDealOnline-cn.md) |
-| [getRandomNum](interfaces/getRandomNum-cn.md) | [endEmv](interfaces/endEmv-cn.md) | |
+| [calcMac](cn/calcMac.md) | [calcMac2](cn/calcMac2.md) | [icDealOnline](cn/icDealOnline.md) |
+| [getRandomNum](cn/getRandomNum.md) | [endEmv](cn/endEmv.md) | |
 
 - ### **其他**
-| [setTimeout](interfaces/setTimeout-cn.md) | [getVersion](interfaces/getVersion-cn.md) | [getDeviceState](interfaces/getDeviceState-cn.md) |
+| [setTimeout](cn/setTimeout.md) | [getVersion](cn/getVersion.md) | [getDeviceState](cn/getDeviceState.md) |
 | :-----: | :-----: | :-----: |
-| [setDatetime](interfaces/setDatetime-cn.md) | [setFactoryCode](interfaces/setFactoryCode-cn.md) | [getDatetime](interfaces/getDatetime-cn.md) |
-| [readPosInfoEx](interfaces/readPosInfoEx-cn.md) | [beep](interfaces/beep-cn.md) | [updatePos](interfaces/updatePos-cn.md) |
+| [setDatetime](cn/setDatetime.md) | [setFactoryCode](cn/setFactoryCode.md) | [getDatetime](cn/getDatetime.md) |
+| [readPosInfoEx](cn/readPosInfoEx.md) | [beep](cn/beep.md) | [updatePos](cn/updatePos.md) |
 
 - ### **调用规则**
-    -   [操作基本流程](interfaces/index-cn.md)
+    -   [操作基本流程](cn/index.md)

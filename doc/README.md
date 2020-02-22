@@ -2,29 +2,29 @@
 
 - ### Bluetooth
 
-| [openBtDevice](interfaces/openBtDevice-cn.md) | [scanBtDevice](interfaces/scanBtDevice-cn.md) | [stopScan](interfaces/stopScan-cn.md) |
+| [openBtDevice](en/openBtDevice.md) | [scanBtDevice](en/scanBtDevice.md) | [stopScan](en/stopScan.md) |
 | :--------: | :--------: | :--------: |
-| [connectBtDevice](interfaces/connectBtDevice-cn.md) | [disconnectBtDevice](interfaces/disconnectBtDevice-cn.md) | |
+| [connectBtDevice](en/connectBtDevice.md) | [disconnectBtDevice](en/disconnectBtDevice.md) | |
 
 - ### **Inject keys**
-| [loadMasterKey](interfaces/loadMasterKey-cn.md) | [loadWorkKey](interfaces/loadWorkKey-cn.md) | |
+| [loadMasterKey](en/loadMasterKey.md) | [loadWorkKey](en/loadWorkKey.md) | |
 | :-----: | :-----: | :-----: |
-| [setKeyIndex](interfaces/setKeyIndex-cn.md) | [setIcKey](interfaces/setIcKey-cn.md) | [setIcAid](interfaces/setIcAid-cn.md) |
+| [setKeyIndex](en/setKeyIndex.md) | [setIcKey](en/setIcKey.md) | [setIcAid](en/setIcAid.md) |
 
 - ### **DUKPT**
-| [dukptLoadKey](interfaces/dukptLoadKey-cn.md) | [dukptGetKey](interfaces/dukptGetKey-cn.md) | [dukptGenKey](interfaces/dukptGenKey-cn.md) |
+| [dukptLoadKey](en/dukptLoadKey.md) | [dukptGetKey](en/dukptGetKey.md) | [dukptGenKey](en/dukptGenKey.md) |
 | :-----: | :-----: | :-----: |
-| [dukptDes](interfaces/dukptDes-cn.md) | ||
+| [dukptDes](en/dukptDes.md) | ||
 
 - ### **Transaction**
-| [mPosTradeEx](interfaces/mPosTradeEx-cn.md) | [resetPos](interfaces/resetPos-cn.md) | [inputPin](interfaces/inputPin-cn.md) |
+| [mPosTradeEx](en/mPosTradeEx.md) | [resetPos](en/resetPos.md) | [inputPin](en/inputPin.md) |
 | :-----: | :-----: |:-----: |
-| [calcMac](interfaces/calcMac-cn.md) | [calcMac2](interfaces/calcMac2-cn.md) | [icDealOnline](interfaces/icDealOnline-cn.md) |
-| [getRandomNum](interfaces/getRandomNum-cn.md) | [endEmv](interfaces/endEmv-cn.md) | |
+| [calcMac](en/calcMac.md) | [calcMac2](en/calcMac2.md) | [icDealOnline](en/icDealOnline.md) |
+| [getRandomNum](en/getRandomNum.md) | [endEmv](en/endEmv.md) | |
 
 - ### **Other**
-| [setTimeout](interfaces/setTimeout-cn.md) | [getVersion](interfaces/getVersion-cn.md) | [getDeviceState](interfaces/getDeviceState-cn.md) |
+| [setTimeout](en/setTimeout.md) | [getVersion](en/getVersion.md) | [getDeviceState](en/getDeviceState.md) |
 | :-----: | :-----: | :-----: |
-| [setDatetime](interfaces/setDatetime-cn.md) | [setFactoryCode](interfaces/setFactoryCode-cn.md) | [getDatetime](interfaces/getDatetime-cn.md) |
-| [readPosInfoEx](interfaces/readPosInfoEx-cn.md) | [beep](interfaces/beep-cn.md) | [updatePos](interfaces/updatePos-cn.md) |
+| [setDatetime](en/setDatetime.md) | [setFactoryCode](en/setFactoryCode.md) | [getDatetime](en/getDatetime.md) |
+| [readPosInfoEx](en/readPosInfoEx.md) | [beep](en/beep.md) | [updatePos](en/updatePos.md) |
 
