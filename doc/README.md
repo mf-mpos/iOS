@@ -1,5 +1,7 @@
 # Function table
 
+#### Language: [English](README.md) | [中文简体](README-cn.md)
+
 - ### Bluetooth
 
 | [openBtDevice](en/openBtDevice.md) | [scanBtDevice](en/scanBtDevice.md) | [stopScan](en/stopScan.md) |

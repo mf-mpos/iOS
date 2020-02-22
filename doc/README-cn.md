@@ -1,5 +1,7 @@
 # 接口列表
 
+#### Language: [English](README.md) | [中文简体](README-cn.md)
+
 - ### 蓝牙操作
 
 | [openBtDevice](cn/openBtDevice.md) | [scanBtDevice](cn/scanBtDevice.md) | [stopScan](cn/stopScan.md) |
