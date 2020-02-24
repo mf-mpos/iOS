@@ -1,12 +1,14 @@
 # enum 枚举定义
 
-#### [MFEU_MSR_RESP](#MFEU_MSR_RESP) | 操作结果返回
+#### MFEU_MSR_RESP
+> 操作结果返回
 | 名称 | 值 | 说明 |
 | :-------- | :--------| :------ |
 | MF_RESP_SUCC | 0x00 | 成功 |
 | MF_RESP_FAIL | 0x01 | 失败 |
 
-#### [MFEU_MPOS_RESP](MFEU_MPOS_RESP) | MPOS操作结果返回
+#### MFEU_MPOS_RESP
+> MPOS操作结果返回
 | 名称 | 值 | 说明 |
 | :-------- | :--------| :------ |
 | MF_MPOS_RESP_CANCEL | 0x00 | 用户取消 |
@@ -206,7 +208,7 @@
 | MF_UPSTAT_BEGIN | 0x00 | 升级开始 |
 | MF_UPSTAT_DOING | 0x00 | 升级中 |
 | MF_UPSTAT_END | 0x01 | 升级结束 |
- 
+
 #### [MFEU_UPGRADE_REQ](MFEU_UPGRADE_REQ) | 升级请求状态
 | 名称 | 值 | 说明 |
 | :-------- | :--------| :------ |
